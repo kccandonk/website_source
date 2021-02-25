@@ -1,3 +1,6 @@
+Build website: https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7
+https://matteocourthoud.github.io/post/website/
+
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
