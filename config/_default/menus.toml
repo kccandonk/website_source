@@ -8,6 +8,11 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Workshop Papers"  # Title of the link.
+  url = "#workshop_papers"  # Widget Page folder name.
+  weight = 49  # Position of the link in the navigation bar.
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
