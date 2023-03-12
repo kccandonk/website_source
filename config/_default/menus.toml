@@ -11,7 +11,7 @@
 [[main]]
   name = "Workshop Papers"  # Title of the link.
   url = "#workshop_papers"  # Widget Page folder name.
-  weight = 49  # Position of the link in the navigation bar.
+  weight = 51  # Position of the link in the navigation bar.
 
 #[[main]]
 #  name = "Posts"
@@ -28,10 +28,10 @@
 #  url = "#talks"
 #  weight = 40
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 50
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 50
 
 #[[main]]
 #  name = "Contact"
